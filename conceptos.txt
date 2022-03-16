@@ -1,0 +1,20 @@
+
+
+variables 
+es donde se almacena algo para luego utilizarlo mas tarde, estas se pueden configurar y restablecer a cualquer tipo, no se necesita declarar el tipoal iniciar la variable.
+
+strings 
+son blaques de texto y siempre se definen en comilla ya sea simples o dobles, son llamadas tambien cadenas de rtexto o strig.
+
+Funciones (argumentos, `return`)
+son objetos, llamados tambienn objetos invocables, cuando una funcion golpea una declaracion de retorno la funcion detiene inmediatamente lo que esta haciendo y devuelve lo especificado.
+cuando se tiene un conjunto de variables se necesitan funciones para calcularlas , cambiarlas o hacer algo con ellas.
+
+los argumentos es agregarle una variable a los parentesis cuando declaramos una funcion, se puede utilizar esa variable dentro de la funcion,tambien se pueden pasar otras variables.
+
+declaraciones if
+esta es una forma de que nuestra funcion verifique si algo es true y ya se ha ejecutado el codigo, suministrando si es asi o avanzando si no lo es.
+
+
+valores booleanos
+es un concepto que alimenta el codigo binario, en java scriot se usa booleanos para significar verdadero o falso.
